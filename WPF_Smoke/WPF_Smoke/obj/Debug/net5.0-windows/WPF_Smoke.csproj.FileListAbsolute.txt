@@ -1,0 +1,32 @@
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\WPF_Smoke.exe
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\WPF_Smoke.deps.json
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\WPF_Smoke.runtimeconfig.json
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\WPF_Smoke.runtimeconfig.dev.json
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\WPF_Smoke.dll
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\ref\WPF_Smoke.dll
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\WPF_Smoke.pdb
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.csproj.AssemblyReference.cache
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\App.g.cs
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke_MarkupCompile.cache
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke_MarkupCompile.lref
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\MainWindow.baml
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.g.resources
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.AssemblyInfoInputs.cache
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.AssemblyInfo.cs
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.csproj.CoreCompileInputs.cache
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.dll
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\ref\WPF_Smoke.dll
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.pdb
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\WPF_Smoke.genruntimeconfig.cache
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\Shop.g.cs
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\obj\Debug\net5.0-windows\Shop.baml
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\brawl.jpg
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\csgo.png
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\Doom.jpg
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\dota2.jpg
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\Genshin.jpg
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\Portal_2.jpg
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\standoff2.jpg
+C:\TEMP\ученики\Bobrov\WPF_Smoke\WPF_Smoke\bin\Debug\net5.0-windows\game images\Tower-of-Fantasy.png
